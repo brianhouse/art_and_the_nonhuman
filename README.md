@@ -20,25 +20,16 @@ In this studio-seminar course, we will investigate the notion of nonhuman agency
 - Consider contemporary culture through media representations of nonhumans
 
 
-## Assignments and Grading
+## Assignments and Evaluation
+
+### Seminar Reading
+Most classes will include discussion of short texts that address conceptual issues in art, science, and technology. You are required to read them thoroughly before class and have questions and comments ready. You will share these thoughts with the class.
 
 ### Projects
-This course is built around four projects completed over the course of the semester, which will be [critiqued by the class](https://github.com/brianhouse/sound_art/blob/master/resources/crit_guidelines.md). While there are technical and conceptual parameters for each project, you are expected to experiment and to develop a personal artistic trajectory. Projects must have a title and [3-sentence description](https://github.com/brianhouse/sound_art/blob/master/resources/description_guidelines.md), which must be turned in via Moodle along with a documentation video. As work is evaluated via in-class crit, no late work can be accepted.
-
-### Workshops
-Over the course of the semester, there will be many hands-on workshops in class. These workshops are the basis for learning the technical skills you will apply to your projects. Each will include an exercise to be completed.
-
-### Presentations
-Each student will give a 10-minute presentation on an influential work of sound art. These presentations, which must be organized in slides, should give an overview of the context in which the artist is working and then precede to show the piece, analyze it, and discuss its influence. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1CPhcVVAViKSFwn7ufwh85ftbyqVCAH1wuNkG5fgo7ps/edit) on an artwork chosen from [a list](resources/artworks.md) on a first-come, first-served basis. Slides should be turned in on Moodle prior to class.
-
-### Reading
-Most classes will include discussion of short texts that address conceptual issues in sound art. You are required to read them before class and have questions and comments ready. Post a short response (1-3 sentences) online before class (asking a question about something you didn't understand is an excellent use of a post).
-
-### Participation
-Attendance is mandatory, and motivated and mindful participation in crit and classroom discussion is expected.
+Over the course of the semester, you will compelete two artistic research projects—a midterm and a final—which will be critiqued by the class. While there are technical and conceptual parameters for each project, you are expected to experiment and to develop a personal artistic trajectory. Projects must be properly documented; in most cases this will mean making a video.
 
 ### Grading
-In this course, you are expected to earnestly engage in the practice of studio artmaking, and doing so is the basis of your grade at the discretion of the professor. In other words, your grade is about process, not about product. Completing all work on time and participating in class is the baseline standard. Beyond grades, your work will be evaluated subjectively via peer critique and feedback from the instructor, and you are expected to incorporate that feedback into your future work while pursuing your own creative direction. Midway through the semester, students will meet individually with the professor to track their progress.
+In this course, you are expected to earnestly engage in the practice of philosophical iquiry and studio artmaking, and doing so is the basis of your grade at the discretion of the professor. In other words, your grade is about process, not about product. Attending all classes, actively participating in class, and completing all assignments is the baseline standard. Beyond grades, your project-based work will be evaluated subjectively via peer critique and feedback from the instructor, and you are expected to incorporate that feedback into your future work while pursuing your own creative direction. Midway through the semester, students will meet individually with the professor to track their progress.
 
 
 ## Policies
@@ -47,7 +38,7 @@ In this course, you are expected to earnestly engage in the practice of studio a
 It is my intent to lead a course that serves students from diverse backgrounds and perspectives, and that our varied life experiences may be a common benefit. Content in this studio art course may at times challenge our aesthetic and/or ethical values; free exchange of ideas and critique is encouraged and expected, but harassment and disrespect will not be tolerated. During class discussion and critique we aim to be mindful and generous in our interactions and to make everyone feel heard.
 
 ### Access to 303
-While all students must complete their own work, you are encouraged to help each other. To facilitate collective learning, students are also able to work in Fayerweather 303 outside of class hours. We will choose designated open studio hours in the first week. Keys to 303 will be distributed to all students after Add/Drop.
+While all students must complete their own work, you are encouraged to help each other. To facilitate collective learning, students are also able to work in Fayerweather 303 outside of class hours. Keys to 303 will be distributed to all students after Add/Drop.
 
 ### Dynamic Syllabus
 The version of this syllabus posted online will be updated periodically and is the definitive version. It is your responsibility to consult it and stay up-to-date.
@@ -62,6 +53,68 @@ By enrolling in the course, you agree to uphold the principles set forth in the 
 Our college is named after a white colonizer and is built in the Kwinitekw Valley on Nonotuck land; we are here because of the sacrifices forced upon indigenous peoples. As artists working with science and technology, we must be aware of and resist the many ways it capitalizes upon and perpetuates violence toward marginalized people.  
 &nbsp;  
 &nbsp;  
+
+## Artworks
+
+Robert Smithson, _Spiral Jetty_ (1970)
+John Luther Adams, _The Place Where You Go to Listen_ (2006)
+Felix Hess, _Air Pressure Fluxuations_ (2001) 
+Daniel Fishkin, _Solar Sounders_ (2021)
+James Bridle, _Server Farm_ (2022)
+Ana Mendieta, _Burial Pyramid_ (1974)
+Cocky Eek, _Kite Dress_ (2002)
+Beverly Buchanan, _Marsh Ruins_ (1981)
+Agnes Denes, _Wheatfield — A Confrontation_ (1982)
+Lucia Monge, _Plantón Movíl_ (2010)
+Eduardo Kac, _GFP Bunny_ (2000)
+Joseph Beuys, _I Like America and America Likes Me_ (1974)
+Mark Dion, _Library for the Birds of Massachusetts_ (2005)
+Patricia Piccinini, _The Young Family_ (2002)
+Martin Howse, _Radio Mycelium_ (2018)
+Natalie Jeremijenko, _Tree Logic_ (1999)
+Revital Cohen and Tuur van Balen, _Pigeon D'Or_ (2010)
+Allora & Calzadilla, _Concert for Elephants_ (2014)
+Christien Meindertsma, _PIG 05049_ (2007)
+Jenifer Wightman, _Winogradsky Rothko_ (2008)
+Hildegard Westerkamp, _Beneath the Forest Floor_ (1991)
+Gilberto Esparza, _Parasitos Urbanos_ (2006)
+Sougwen Chung, _Drawing Operations Unit: Generation 2_ (2018)
+Anicka Yi, _In Love with the World_ (2021)
+Trevor Paglen, _Adversarially Evolved Hallucinations_ (2017)
+Sophia Crespo, _Neural Zoo_ (2018)
+Paula Gaetano-Adi, _Guanaquerx_ (2024)
+Philip Beasley, _Meander_ (2020)
+Ian Cheng, _Emissaries_ (2017)
+Christian Heinemann, _ALIEN_ (2021–)
+Zaria Forman, _Glacier Drawings_ (2006–)
+Tomás Saraceno, _Hybrid Webs_ (2018)
+
+## Readings
+Robert Smithson, "A Tour of the Monuments of Passaic" (1967)
+Thomas Nagel, "What Is It Like to Be a Bat?" (1974)
+John Luther Adams, "The Place Where You Go to Listen" (2006)
+Felix Hess, "Air Pressure Flucuations" (2001)
+Trevor Paglen, "Invisible Images (Your Pictures Are Looking at You)" (2026)
+Beatriz da Costa, "Reaching the Limit: When Art Becomes Science" (2008)
+Kathy High, "Playing with Rats" (2008)
+Mathew Coolidge, interview (2013)
+Donna Harraway, "The Companion Species Manifesto" (2003)
+Natasha Lennard and Cary Wolfe, "Is Humanism Really Humane?" (2017)
+Thomas Patrick Pringle, "Photographed by the Earth: War and media in light of nuclear events" (2014)
+Othmar Tobisch, "Connections between the Geological Sciences and Visual Art" (1983)
+Hildegard Westerkamp, "Linking Soundscape Composition and Acoustic Ecology" (2002)
+Katherine Hayles, "How We Became Posthuman" (1999)
+Jane Bennett, "Vibrant Matter" (2010)
+Mark Bedau, "The Scientific and Philosophical Scope of Artificial Life" (2002)
+Bruno Latour, "Sensitizing" (2025)
+Elizabeth Grosz, "Chaos, Territory, Art" (2008)
+Monkey selfie copyright dispute (2011)
+Timothy Morton, "They Are Here" (2015)
+Marcia Bjornerud, interview (2018)
+Gilles Deleuze and Felix Guattari, "Becoming Animal"
+Nicolas Nova, "A Bestiary of the Anthropocene" (2021)
+Yasmine Ostendorf-Rodríguez, "Let's Become Fungal" (2023)
+
 
 ## Schedule
 
