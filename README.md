@@ -29,7 +29,7 @@ Most classes will include discussion of short texts that address conceptual issu
 Over the course of the semester, you will compelete two artistic research projects—a midterm and a final—which will be critiqued by the class. While there are technical and conceptual parameters for each project, you are expected to experiment and to develop a personal artistic trajectory. Projects must be properly documented; in most cases this will mean making a video.
 
 ### Grading
-In this course, you are expected to earnestly engage in the practice of philosophical iquiry and studio artmaking, and doing so is the basis of your grade at the discretion of the professor. In other words, your grade is about process, not about product. Attending all classes, actively participating in class, and completing all assignments is the baseline standard. Beyond grades, your project-based work will be evaluated subjectively via peer critique and feedback from the instructor, and you are expected to incorporate that feedback into your future work while pursuing your own creative direction. Midway through the semester, students will meet individually with the professor to track their progress.
+In this course, you are expected to earnestly engage in the practice of philosophical inquiry and studio artmaking, and doing so is the basis of your grade at the discretion of the professor. In other words, your grade is about process, not about product. Attending all classes, actively participating in class, and completing all assignments is the baseline standard. Beyond grades, your project-based work will be evaluated subjectively via peer critique and feedback from the instructor, and you are expected to incorporate that feedback into your future work while pursuing your own creative direction. Midway through the semester, students will meet individually with the professor to track their progress.
 
 
 ## Policies
@@ -58,7 +58,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 - Robert Smithson, _Spiral Jetty_ (1970)
 - John Luther Adams, _The Place Where You Go to Listen_ (2006)
-- Felix Hess, _Air Pressure Fluxuations_ (2001) 
+- Felix Hess, _Air Pressure Flucuations_ (2001) 
 - Daniel Fishkin, _Solar Sounders_ (2021)
 - James Bridle, _Server Farm_ (2022)
 - Ana Mendieta, _Burial Pyramid_ (1974)
@@ -69,15 +69,18 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Eduardo Kac, _GFP Bunny_ (2000)
 - Joseph Beuys, _I Like America and America Likes Me_ (1974)
 - Mark Dion, _Library for the Birds of Massachusetts_ (2005)
+- Chris Woebken and Kenichi Okada, _Animal Superpowers_ (2007)
 - Patricia Piccinini, _The Young Family_ (2002)
 - Martin Howse, _Radio Mycelium_ (2018)
 - Natalie Jeremijenko, _Tree Logic_ (1999)
 - Revital Cohen and Tuur van Balen, _Pigeon D'Or_ (2010)
+- Olafur Eliasson, _Weather Project_ (2003)
 - Allora & Calzadilla, _Concert for Elephants_ (2014)
 - Christien Meindertsma, _PIG 05049_ (2007)
 - Jenifer Wightman, _Winogradsky Rothko_ (2008)
 - Hildegard Westerkamp, _Beneath the Forest Floor_ (1991)
 - Gilberto Esparza, _Parasitos Urbanos_ (2006)
+- Karolina Sobecka, _Matter of Air_ (2009)
 - Sougwen Chung, _Drawing Operations Unit: Generation 2_ (2018)
 - Anicka Yi, _In Love with the World_ (2021)
 - Trevor Paglen, _Adversarially Evolved Hallucinations_ (2017)
@@ -86,34 +89,43 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Philip Beasley, _Meander_ (2020)
 - Ian Cheng, _Emissaries_ (2017)
 - Christian Heinemann, _ALIEN_ (2021–)
+- Damien Hirst, _The Physical Impossibility of Death in the Mind of Someone Living_ (1991)
+- Random International, _Rain Room_ (2012)
 - Zaria Forman, _Glacier Drawings_ (2006–)
 - Tomás Saraceno, _Hybrid Webs_ (2018)
 
 ## Readings
-- Robert Smithson, "A Tour of the Monuments of Passaic" (1967)
-- Thomas Nagel, "What Is It Like to Be a Bat?" (1974)
-- John Luther Adams, "The Place Where You Go to Listen" (2006)
-- Felix Hess, "Air Pressure Flucuations" (2001)
-- Trevor Paglen, "Invisible Images (Your Pictures Are Looking at You)" (2026)
-- Beatriz da Costa, "Reaching the Limit: When Art Becomes Science" (2008)
-- Kathy High, "Playing with Rats" (2008)
-- Mathew Coolidge, interview (2013)
-- Donna Harraway, "The Companion Species Manifesto" (2003)
-- Natasha Lennard and Cary Wolfe, "Is Humanism Really Humane?" (2017)
-- Thomas Patrick Pringle, "Photographed by the Earth: War and media in light of nuclear events" (2014)
-- Othmar Tobisch, "Connections between the Geological Sciences and Visual Art" (1983)
-- Hildegard Westerkamp, "Linking Soundscape Composition and Acoustic Ecology" (2002)
-- Katherine Hayles, "How We Became Posthuman" (1999)
-- Jane Bennett, "Vibrant Matter" (2010)
-- Mark Bedau, "The Scientific and Philosophical Scope of Artificial Life" (2002)
-- Bruno Latour, "Sensitizing" (2025)
-- Elizabeth Grosz, "Chaos, Territory, Art" (2008)
-- Monkey selfie copyright dispute (2011)
-- Timothy Morton, "They Are Here" (2015)
-- Marcia Bjornerud, interview (2018)
-- Gilles Deleuze and Felix Guattari, "Becoming Animal"
-- Nicolas Nova, "A Bestiary of the Anthropocene" (2021)
+- [Beatriz da Costa, "Reaching the Limit: When Art Becomes Science" (2008)](readings/da_costa_reaching_the_limit.pdf)
+- [Bruno Latour, "Sensitizing" (2025)](readings/latour_sensitizing.pdf)
+- [Natasha Lennard and Cary Wolfe, "Is Humanism Really Humane?" (2017)](https://www.nytimes.com/2017/01/09/opinion/is-humanism-really-humane.html)
+- [Thomas Nagel, "What Is It Like to Be a Bat?" (1974)](readings/nagel_bat.pdf)
+- [Robert Smithson, "A Tour of the Monuments of Passaic" (1967)](readings/smithson_monuments.pdf)
+- [Trevor Paglen, "Invisible Images (Your Pictures Are Looking at You)" (2026)](readings/paglen_invisible_images.pdf)
+- [Elaine Gan et al, "Haunted Landscapes of the Anthropocene"](readings/gan_haunted_landscapes.pdf)
+- [Kathy High, "Playing with Rats" (2008)](readings/high_playing_with_rats.pdf)
+- [Karolina Sobecka, "Averted Vision" (2023)](readings/sobecka_averted_vision.pdf)
+- [Mathew Coolidge, interview (2013)](readings/matthew_coolidge_interview.pdf)
+- [Donna Haraway, "The Cyborg Manifesto" (1985)](haraway_cyborg_manifesto_excerpts.pdf)
+- [Thomas Patrick Pringle, "Photographed by the Earth: War and media in light of nuclear events" (2014)](readings/pringle_photographed_by_the_earth.pdf)
+- [Othmar Tobisch, "Connections between the Geological Sciences and Visual Art" (1983)](readings/tobisch_connections.pdf)
+- [Hildegard Westerkamp, "Linking Soundscape Composition and Acoustic Ecology" (2002)](readings/westerkamp_soundscape_composition.pdf)
+- [Katherine Hayles, "Toward Embodied Virtuality" (1999)](readings/hayles_toward_embodied_virtuality.pdf)
+- [Mark Bedau, "The Scientific and Philosophical Scope of Artificial Life" (2002)](readings/mark_bedau_alife.pdf)
+- [Monkey selfie copyright dispute (2011)](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute)
+- [Marcia Bjornerud, interview (2018)](readings/bjornerud_interview.pdf)
+- [Nicolas Nova, "A Bestiary of the Anthropocene" (2021)](readings/a_bestiary_of_the_anthropocene_excerpt)
 - Yasmine Ostendorf-Rodríguez, "Let's Become Fungal" (2023)
+- Gilles Deleuze and Felix Guattari, "Becoming Animal"
+- Timothy Morton, "They Are Here" (2015)
+
+
+
+### Books
+- [Jane Bennett, "Vibrant Matter" (2010)](readings/bennett_the_force_of_things.pdf)
+- Elizabeth Grosz, "Chaos, Territory, Art" (2008)
+- James Bridle, "Ways of Being" (2022)
+
+
 
 
 ## Schedule
@@ -135,6 +147,8 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 3
 
 #### Monday 2/12
+<!-- Heather brings keys? -->
+Discuss midterm projects
 
 #### Wednesday 2/14
 
@@ -142,6 +156,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 4
 
 #### Monday 2/19
+Midterm project proposals due
 
 #### Wednesday 2/21
 
@@ -165,7 +180,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 3/11
 
 #### Wednesday 3/13
-
+Midterm project critique
 
 ### Spring Break
 
@@ -175,6 +190,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 3/25
 
 #### Wednesday 3/27
+Midterm check-ins
 
 
 ### Week 9
@@ -182,11 +198,12 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 4/1
 
 #### Wednesday 4/3
-
+Discuss final projects
 
 ### Week 10
 
 #### Monday 4/8
+Final project proposal due
 
 #### Wednesday 4/10
 
@@ -215,6 +232,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 14
 
 #### Monday 5/6
+Final project critique
 
 
 
