@@ -1,4 +1,4 @@
-# ARHA 292: ART AND THE NONHUMAN
+# ARHA 431: ART AND THE NONHUMAN
 
 Monday / Wednesday 1:00–2:20PM
 Fayerweather 303
@@ -26,7 +26,9 @@ In this studio-seminar course, we will investigate the notion of nonhuman agency
 Most classes will include discussion of short texts that address conceptual issues in art, science, and technology. You are required to read them thoroughly before class and have questions and comments ready. You will share these thoughts with the class.
 
 ### Projects
-Over the course of the semester, you will compelete two artistic research projects—a midterm and a final—which will be critiqued by the class. While there are technical and conceptual parameters for each project, you are expected to experiment and to develop a personal artistic trajectory. Projects must be properly documented; in most cases this will mean making a video.
+Over the course of the semester, you will compelete two artistic research projects—a midterm and a final—which will be critiqued by the class. While the projects must be in dialogue with the themes of the course, you are expected to experiment and to develop a personal artistic trajectory. Projects must be properly documented; in most cases this will mean making a video.
+
+[More guidelines about projects](projects.md).
 
 ### Grading
 In this course, you are expected to earnestly engage in the practice of philosophical inquiry and studio artmaking, and doing so is the basis of your grade at the discretion of the professor. In other words, your grade is about process, not about product. Attending all classes, actively participating in class, and completing all assignments is the baseline standard. Beyond grades, your project-based work will be evaluated subjectively via peer critique and feedback from the instructor, and you are expected to incorporate that feedback into your future work while pursuing your own creative direction. Midway through the semester, students will meet individually with the professor to track their progress.
@@ -86,7 +88,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Trevor Paglen, _Adversarially Evolved Hallucinations_ (2017)
 - Sophia Crespo, _Neural Zoo_ (2018)
 - Paula Gaetano-Adi, _Guanaquerx_ (2024)
-- Philip Beasley, _Meander_ (2020)
+- Philip Beesley, _Hylozoic Ground_ (2010)
 - Ian Cheng, _Emissaries_ (2017)
 - Christian Heinemann, _ALIEN_ (2021–)
 - Damien Hirst, _The Physical Impossibility of Death in the Mind of Someone Living_ (1991)
@@ -95,12 +97,13 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Tomás Saraceno, _Hybrid Webs_ (2018)
 
 ## Readings
+- [Natasha Lennard and Cary Wolfe, "Is Humanism Really Humane?" (2017)](https://www.nytimes.com/2017/01/09/opinion/is-humanism-really-humane.html)
 - [Beatriz da Costa, "Reaching the Limit: When Art Becomes Science" (2008)](readings/da_costa_reaching_the_limit.pdf)
 - [Bruno Latour, "Sensitizing" (2025)](readings/latour_sensitizing.pdf)
-- [Natasha Lennard and Cary Wolfe, "Is Humanism Really Humane?" (2017)](https://www.nytimes.com/2017/01/09/opinion/is-humanism-really-humane.html)
 - [Thomas Nagel, "What Is It Like to Be a Bat?" (1974)](readings/nagel_bat.pdf)
-- [Robert Smithson, "A Tour of the Monuments of Passaic" (1967)](readings/smithson_monuments.pdf)
 - [Trevor Paglen, "Invisible Images (Your Pictures Are Looking at You)" (2026)](readings/paglen_invisible_images.pdf)
+
+- [Robert Smithson, "A Tour of the Monuments of Passaic" (1967)](readings/smithson_monuments.pdf)
 - [Elaine Gan et al, "Haunted Landscapes of the Anthropocene"](readings/gan_haunted_landscapes.pdf)
 - [Kathy High, "Playing with Rats" (2008)](readings/high_playing_with_rats.pdf)
 - [Karolina Sobecka, "Averted Vision" (2023)](readings/sobecka_averted_vision.pdf)
@@ -117,6 +120,10 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Yasmine Ostendorf-Rodríguez, "Let's Become Fungal" (2023)
 - Gilles Deleuze and Felix Guattari, "Becoming Animal"
 - Timothy Morton, "They Are Here" (2015)
+
+<!--
+	turing test
+-->
 
 
 

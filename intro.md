@@ -1,8 +1,8 @@
 # Intro
 
-Alex Franzoni
-Erxi Lu
-Olivia Wissell
+Alex Franzoni  
+Erxi Lu  
+Olivia Wissell  
 
 
 ## Thematic
@@ -38,6 +38,8 @@ Inspired by a graduate seminar like you would find in a Media Studies PhD. How t
 In this case, because it's studio art, we're not only dealing with texts, but with artworks, and instead of a written a paper, it's producing studio work. 
 
 I made a mistake in making this a 400-level course in the Spring semester; difficult for Amherst art and FAMS students to take. With three people I think we can still do it, but we'll keep the presentations on the texts very informal.
+
+special topics / research group
 
 So how I see this going is like this: we'll all read a paper for every class, and come with thoughts and questions, which we'll all present and talk about.
 
