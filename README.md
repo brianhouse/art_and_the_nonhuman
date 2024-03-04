@@ -95,6 +95,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Random International, _Rain Room_ (2012)
 - Zaria Forman, _Glacier Drawings_ (2006–)
 - Tomás Saraceno, _Hybrid Webs_ (2018)
+- Anti Laitenen, _Broken Landscape_ (2017)
 
 ## Readings
 - [Natasha Lennard and Cary Wolfe, "Is Humanism Really Humane?" (2017)](https://www.nytimes.com/2017/01/09/opinion/is-humanism-really-humane.html)
@@ -104,6 +105,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - [Trevor Paglen, "Invisible Images (Your Pictures Are Looking at You)" (2026)](readings/paglen_invisible_images.pdf)
 
 - [Robert Smithson, "A Tour of the Monuments of Passaic" (1967)](readings/smithson_monuments.pdf)
+
 - [Elaine Gan et al, "Haunted Landscapes of the Anthropocene"](readings/gan_haunted_landscapes.pdf)
 - [Kathy High, "Playing with Rats" (2008)](readings/high_playing_with_rats.pdf)
 - [Karolina Sobecka, "Averted Vision" (2023)](readings/sobecka_averted_vision.pdf)
@@ -120,6 +122,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Yasmine Ostendorf-Rodríguez, "Let's Become Fungal" (2023)
 - Gilles Deleuze and Felix Guattari, "Becoming Animal"
 - Timothy Morton, "They Are Here" (2015)
+- [Robin Wall Kimmerer, "Skywoman Falling" (2013)](readings/wall_kimmerer_skywoman_falling.pdf)
 
 <!--
 	turing test
