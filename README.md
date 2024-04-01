@@ -118,7 +118,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - [Mark Bedau, "The Scientific and Philosophical Scope of Artificial Life" (2002)](readings/mark_bedau_alife.pdf)
 - [Monkey selfie copyright dispute (2011)](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute)
 - [Marcia Bjornerud, interview (2018)](readings/bjornerud_interview.pdf)
-- [Nicolas Nova, "A Bestiary of the Anthropocene" (2021)](readings/a_bestiary_of_the_anthropocene_excerpt)
+- [Nicolas Nova, "A Bestiary of the Anthropocene" (2021)](readings/a_bestiary_of_the_anthropocene_excerpt.pdf)
 - Yasmine Ostendorf-Rodríguez, "Let's Become Fungal" (2023)
 - Gilles Deleuze and Felix Guattari, "Becoming Animal"
 - Timothy Morton, "They Are Here" (2015)
@@ -198,9 +198,10 @@ Midterm project critique
 ### Week 8
 
 #### Monday 3/25
+ALife
 
 #### Wednesday 3/27
-Midterm check-ins
+Mead
 
 
 ### Week 9
