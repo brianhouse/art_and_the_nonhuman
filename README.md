@@ -103,26 +103,32 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - [Bruno Latour, "Sensitizing" (2025)](readings/latour_sensitizing.pdf)
 - [Thomas Nagel, "What Is It Like to Be a Bat?" (1974)](readings/nagel_bat.pdf)
 - [Trevor Paglen, "Invisible Images (Your Pictures Are Looking at You)" (2026)](readings/paglen_invisible_images.pdf)
-
+- [Robin Wall Kimmerer, "Skywoman Falling" (2013)](readings/wall_kimmerer_skywoman_falling.pdf)
 - [Robert Smithson, "A Tour of the Monuments of Passaic" (1967)](readings/smithson_monuments.pdf)
+- [Mark Bedau, "The Scientific and Philosophical Scope of Artificial Life" (2002)](readings/mark_bedau_alife.pdf)
+- [Marcia Bjornerud, interview (2018)](readings/bjornerud_interview.pdf)
+- [Jane Bennett, "Vibrant Matter" (2010)](readings/bennett_the_force_of_things.pdf)
+- [Nicolas Nova, "A Bestiary of the Anthropocene" (2021)](readings/a_bestiary_of_the_anthropocene_excerpt.pdf)
 
-- [Elaine Gan et al, "Haunted Landscapes of the Anthropocene"](readings/gan_haunted_landscapes.pdf)
+- [Jenny Odell, "Reading the Rocks"](readings/odell_rocks.pdf)
+- [Steven Shaviro, "The Consequences of Panpsychism"](shaviro_panpsychism.pdf)
+- [Jakob von Uexkull, "A Stroll through the Worlds of Animals and Men"](readings/uexkull_animals_and_men.pdf)
 - [Kathy High, "Playing with Rats" (2008)](readings/high_playing_with_rats.pdf)
-- [Karolina Sobecka, "Averted Vision" (2023)](readings/sobecka_averted_vision.pdf)
+- [Marisol de la Cadena, "Making the Complex 'We'"](readings/delacadena_we.pdf)
+
+<!-- - [Elaine Gan et al, "Haunted Landscapes of the Anthropocene"](readings/gan_haunted_landscapes.pdf) -->
+<!-- - [Karolina Sobecka, "Averted Vision" (2023)](readings/sobecka_averted_vision.pdf)
 - [Mathew Coolidge, interview (2013)](readings/matthew_coolidge_interview.pdf)
 - [Donna Haraway, "The Cyborg Manifesto" (1985)](haraway_cyborg_manifesto_excerpts.pdf)
 - [Thomas Patrick Pringle, "Photographed by the Earth: War and media in light of nuclear events" (2014)](readings/pringle_photographed_by_the_earth.pdf)
 - [Othmar Tobisch, "Connections between the Geological Sciences and Visual Art" (1983)](readings/tobisch_connections.pdf)
 - [Hildegard Westerkamp, "Linking Soundscape Composition and Acoustic Ecology" (2002)](readings/westerkamp_soundscape_composition.pdf)
 - [Katherine Hayles, "Toward Embodied Virtuality" (1999)](readings/hayles_toward_embodied_virtuality.pdf)
-- [Mark Bedau, "The Scientific and Philosophical Scope of Artificial Life" (2002)](readings/mark_bedau_alife.pdf)
 - [Monkey selfie copyright dispute (2011)](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute)
-- [Marcia Bjornerud, interview (2018)](readings/bjornerud_interview.pdf)
-- [Nicolas Nova, "A Bestiary of the Anthropocene" (2021)](readings/a_bestiary_of_the_anthropocene_excerpt.pdf)
-- Yasmine Ostendorf-Rodríguez, "Let's Become Fungal" (2023)
+ -->
+ - Yasmine Ostendorf-Rodríguez, "Let's Become Fungal" (2023)
 - Gilles Deleuze and Felix Guattari, "Becoming Animal"
-- Timothy Morton, "They Are Here" (2015)
-- [Robin Wall Kimmerer, "Skywoman Falling" (2013)](readings/wall_kimmerer_skywoman_falling.pdf)
+<!-- - Timothy Morton, "They Are Here" (2015) -->
 
 <!--
 	turing test
@@ -131,7 +137,6 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 
 ### Books
-- [Jane Bennett, "Vibrant Matter" (2010)](readings/bennett_the_force_of_things.pdf)
 - Elizabeth Grosz, "Chaos, Territory, Art" (2008)
 - James Bridle, "Ways of Being" (2022)
 
@@ -209,33 +214,40 @@ Mead
 #### Monday 4/1
 
 #### Wednesday 4/3
+<!-- Bestiary -->
 Discuss final projects
+<!-- more product that is documentable -->
 
 ### Week 10
 
 #### Monday 4/8
+<!-- Odell -->
 Final project proposal due
 
 #### Wednesday 4/10
-
+<!-- Shaviro -->
 
 ### Week 11
 
 #### Monday — No Class (April Break)
 
 #### Wednesday 4/17
+<!-- Uexkull -->
 
 
 ### Week 12
 
 #### Monday 4/22
+<!-- High -->
 
 #### Wednesday 4/24
+<!-- Cadena -->
 
 
 ### Week 13
 
 #### Monday 4/29
+<!-- Bridle -->
 
 #### Wednesday 5/1
 
@@ -244,6 +256,9 @@ Final project proposal due
 
 #### Monday 5/6
 Final project critique
+
+### Exam Week
+Documentation due
 
 
 
