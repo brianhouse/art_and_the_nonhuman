@@ -115,6 +115,9 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - [Jakob von Uexkull, "A Stroll through the Worlds of Animals and Men"](readings/uexkull_animals_and_men.pdf)
 - [Kathy High, "Playing with Rats" (2008)](readings/high_playing_with_rats.pdf)
 - [Marisol de la Cadena, "Making the Complex 'We'"](readings/delacadena_we.pdf)
+- [Hildegard Westerkamp, "Linking Soundscape Composition and Acoustic Ecology" (2002)](readings/westerkamp_soundscape_composition.pdf)
+- [Hildegard Westerkamp, "Beneath the Forest Floor" (1991)](readings/westerkamp_beneath_the_forest_floor_excerpt.mp3)
+
 
 <!-- - [Elaine Gan et al, "Haunted Landscapes of the Anthropocene"](readings/gan_haunted_landscapes.pdf) -->
 <!-- - [Karolina Sobecka, "Averted Vision" (2023)](readings/sobecka_averted_vision.pdf)
@@ -122,7 +125,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - [Donna Haraway, "The Cyborg Manifesto" (1985)](haraway_cyborg_manifesto_excerpts.pdf)
 - [Thomas Patrick Pringle, "Photographed by the Earth: War and media in light of nuclear events" (2014)](readings/pringle_photographed_by_the_earth.pdf)
 - [Othmar Tobisch, "Connections between the Geological Sciences and Visual Art" (1983)](readings/tobisch_connections.pdf)
-- [Hildegard Westerkamp, "Linking Soundscape Composition and Acoustic Ecology" (2002)](readings/westerkamp_soundscape_composition.pdf)
+
 - [Katherine Hayles, "Toward Embodied Virtuality" (1999)](readings/hayles_toward_embodied_virtuality.pdf)
 - [Monkey selfie copyright dispute (2011)](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute)
  -->
@@ -225,13 +228,15 @@ Discuss final projects
 Final project proposal due
 
 #### Wednesday 4/10
-<!-- Shaviro -->
+
 
 ### Week 11
 
 #### Monday — No Class (April Break)
 
 #### Wednesday 4/17
+Project check in
+
 <!-- Uexkull -->
 
 
