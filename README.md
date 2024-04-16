@@ -117,6 +117,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - [Marisol de la Cadena, "Making the Complex 'We'"](readings/delacadena_we.pdf)
 - [Hildegard Westerkamp, "Linking Soundscape Composition and Acoustic Ecology" (2002)](readings/westerkamp_soundscape_composition.pdf)
 - [Hildegard Westerkamp, "Beneath the Forest Floor" (1991)](readings/westerkamp_beneath_the_forest_floor_excerpt.mp3)
+- [Gilles Deleuze and Felix Guattari, "Becoming Animal" (1987)](readings/deleuze_guattari_animal.pdf)
 
 
 <!-- - [Elaine Gan et al, "Haunted Landscapes of the Anthropocene"](readings/gan_haunted_landscapes.pdf) -->
@@ -130,7 +131,6 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - [Monkey selfie copyright dispute (2011)](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute)
  -->
  - Yasmine Ostendorf-Rodríguez, "Let's Become Fungal" (2023)
-- Gilles Deleuze and Felix Guattari, "Becoming Animal"
 <!-- - Timothy Morton, "They Are Here" (2015) -->
 
 <!--
