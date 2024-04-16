@@ -111,7 +111,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - [Nicolas Nova, "A Bestiary of the Anthropocene" (2021)](readings/a_bestiary_of_the_anthropocene_excerpt.pdf)
 
 - [Jenny Odell, "Reading the Rocks"](readings/odell_rocks.pdf)
-- [Steven Shaviro, "The Consequences of Panpsychism"](shaviro_panpsychism.pdf)
+- [Steven Shaviro, "The Consequences of Panpsychism"](readings/shaviro_panpsychism.pdf)
 - [Jakob von Uexkull, "A Stroll through the Worlds of Animals and Men"](readings/uexkull_animals_and_men.pdf)
 - [Kathy High, "Playing with Rats" (2008)](readings/high_playing_with_rats.pdf)
 - [Marisol de la Cadena, "Making the Complex 'We'"](readings/delacadena_we.pdf)
